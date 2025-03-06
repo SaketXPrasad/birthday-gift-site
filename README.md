@@ -14,13 +14,12 @@ A fun and interactive **birthday gift website** made with **HTML and CSS** to ce
 ## 📸 Preview  
 Here's how the birthday gift website looks:  
 ![alt text](image.png)  
-
-> 🎈 Make sure to replace `preview.png` with an actual screenshot of your project.  
+  
 
 ## 🚀 Getting Started  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/birthday-gift-website.git  
+   git clone https://github.com/SaketXPrasad/birthday-gift-site.git  
    ```  
 2. **Navigate into the project folder:**  
    ```bash
